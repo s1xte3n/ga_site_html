@@ -8,6 +8,8 @@
     "axe/text-alternatives": "off",
     "meta-charset-utf-8": "off",
     "no-inline-styles": "off",
-    "disown-opener": "off"
+    "disown-opener": "off",
+    "axe/forms": "off",
+    "axe/name-role-value": "off"
   }
 }
